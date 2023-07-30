@@ -5,12 +5,12 @@ This project was created by Ankur, Akshat, Amey, and Abhishek as a part of their
 Description                                                                                                                                                      
 The Banking Management System is a console-based application that allows users to perform various banking operations, such as creating a new account, depositing and withdrawing money, transferring funds, and viewing transaction history.                                                                                      
 
-Requirements
+Requirements                                                                                                                                                        
 Java Development Kit (JDK)                                                                                                                                          
-Eclipse or any other Java IDE
+Eclipse or any other Java IDE                                                                                                                                      
 MySQL database
 
-Usage
+Usage                                                                                                                                                              
 Clone the repository to your local machine.                                                                                                                         
 Open the project in Eclipse or your preferred IDE.                                                                                                                
 Configure the MySQL database settings in the BankingSystem.java file.                                                                                              
