@@ -6,7 +6,7 @@ Description
 The Banking Management System is a console-based application that allows users to perform various banking operations, such as creating a new account, depositing and withdrawing money, transferring funds, and viewing transaction history.
 
 Requirements
-Java Development Kit (JDK)
+Java Development Kit (JDK)                                                                                                                                          
 Eclipse or any other Java IDE
 MySQL database
 
