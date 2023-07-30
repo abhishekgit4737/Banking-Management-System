@@ -9,15 +9,18 @@ Requirements
 Java Development Kit (JDK)
 Eclipse or any other Java IDE
 MySQL database
+
 Usage
 Clone the repository to your local machine.
 Open the project in Eclipse or your preferred IDE.
 Configure the MySQL database settings in the BankingSystem.java file.
 Run the application and follow the on-screen instructions to perform banking operations.
+
 Contributors
 Ankur : PES2UG20CS054
 Akshat : PES2UG20CS030
 Amey : PES2UG20CS037
 Abhishek : PES2UG20CS012
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
